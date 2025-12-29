@@ -20,4 +20,4 @@ Backend-focused Software Engineer with experience in building scalable APIs, clo
 
 ### Connect
 - LinkedIn: https://linkedin.com/in/prince-kumar  
-- Email: kumarprincework@gmail.com
+- Email: prince774623kumar@gmail.com
