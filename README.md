@@ -5,7 +5,7 @@ Backend-focused Software Engineer with experience in building scalable APIs, clo
 
 ### Core Skills
 - Backend Development: Node.js, Express.js, .NET (C#), REST APIs  
-- Frontend: React, Angular, Redux, HTML  
+- Frontend: React,Redux, HTML ,CSS
 - Databases: MySQL, MongoDB, SQLite  
 - Testing: Jest, xUnit  
 - Cloud & DevOps: Azure, CI/CD Pipelines, Docker  
